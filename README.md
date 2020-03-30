@@ -10,6 +10,6 @@
 - out.txt : ASCII text file .               
 - check.txt : ASCII text file feed to `sec.py` to generate `out.txt` with an UNKNOWN key .
 
- ### > we have to find the KEY used to encrypt check.txt 
+      "we have to find the `KEY` used to encrypt check.txt "
  
- My attempt is in the crack2.py 
+      My attempt is in the crack2.py (py2.7)
