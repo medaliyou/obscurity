@@ -64,4 +64,4 @@ print
 print(encrypt(in_d, keys_c[:92]))
 print
 print(decrypt(out_d,keys_c[:92]))
-    
+
